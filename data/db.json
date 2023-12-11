@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "checked": true,
+      "item": "html"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "css"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "AI"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "jnkm"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "fgvbhj"
+    }
+  ]
+}
